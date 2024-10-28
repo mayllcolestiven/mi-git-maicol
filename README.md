@@ -1,1 +1,2 @@
-Este es mi primer archivo en Gitgit 
+Este es mi primer archivo 
+modificando archivo
